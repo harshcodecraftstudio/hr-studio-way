@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hr-studio-1n8.pages.dev/sitemap.xml
